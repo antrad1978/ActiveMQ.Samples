@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "e059f12b860e7c252dac3e21c3fb9e7eb2389e12"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Publisher/1.0.0": {
+        "dependencies": {
+          "ActiveMQ.Base": "1.0.0",
+          "Apache.NMS.ActiveMQ": "1.7.2"
+        },
+        "runtime": {
+          "Publisher.dll": {}
+        }
+      },
+      "Apache.NMS/1.7.1": {
+        "runtime": {
+          "lib/net40/Apache.NMS.dll": {}
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "dependencies": {
+          "Apache.NMS": "1.7.1"
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {}
+        }
+      },
+      "Polly/5.6.1": {
+        "runtime": {
+          "lib/netstandard1.1/Polly.dll": {}
+        }
+      },
+      "ActiveMQ.Base/1.0.0": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ": "1.7.2",
+          "Polly": "5.6.1"
+        },
+        "runtime": {
+          "ActiveMQ.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Publisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sQA+1dl1hBB0AkhBys7oJ6y9lBJnjH5xVc2aQ5bbEv/pbyMhlN8Yuo/NceYVGNdSK89ANp9XyQsaVUI975QLjg==",
+      "path": "apache.nms/1.7.1",
+      "hashPath": "apache.nms.1.7.1.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "path": "apache.nms.activemq/1.7.2",
+      "hashPath": "apache.nms.activemq.1.7.2.nupkg.sha512"
+    },
+    "Polly/5.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zm6mTvN9qk1wJ5hIqQ6ogJvYFRFyzyprRLTR6cNvvGn+jKwSM0wu0pZpZU/kNubYdiXtMNju6DL+/ILS7UaYlg==",
+      "path": "polly/5.6.1",
+      "hashPath": "polly.5.6.1.nupkg.sha512"
+    },
+    "ActiveMQ.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

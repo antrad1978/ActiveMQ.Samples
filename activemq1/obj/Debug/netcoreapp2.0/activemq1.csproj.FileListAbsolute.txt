@@ -1,0 +1,13 @@
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/activemq1.deps.json
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/activemq1.runtimeconfig.json
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/activemq1.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/activemq1.dll
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/activemq1.pdb
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/ActiveMQ.Base.dll
+/Users/macbook/Projects/activemq1/activemq1/bin/Debug/netcoreapp2.0/ActiveMQ.Base.pdb
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.dll
+/Users/macbook/Projects/activemq1/activemq1/obj/Debug/netcoreapp2.0/activemq1.pdb

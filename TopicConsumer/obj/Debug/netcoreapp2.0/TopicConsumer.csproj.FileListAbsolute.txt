@@ -1,0 +1,12 @@
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/TopicConsumer.deps.json
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/TopicConsumer.runtimeconfig.json
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/TopicConsumer.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/TopicConsumer.dll
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/TopicConsumer.pdb
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/ActiveMQ.Base.dll
+/Users/macbook/Projects/activemq1/TopicConsumer/bin/Debug/netcoreapp2.0/ActiveMQ.Base.pdb
+/Users/macbook/Projects/activemq1/TopicConsumer/obj/Debug/netcoreapp2.0/TopicConsumer.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/TopicConsumer/obj/Debug/netcoreapp2.0/TopicConsumer.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/TopicConsumer/obj/Debug/netcoreapp2.0/TopicConsumer.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/TopicConsumer/obj/Debug/netcoreapp2.0/TopicConsumer.dll
+/Users/macbook/Projects/activemq1/TopicConsumer/obj/Debug/netcoreapp2.0/TopicConsumer.pdb

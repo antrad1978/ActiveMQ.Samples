@@ -1,0 +1,13 @@
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/TopicPublisher.deps.json
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/TopicPublisher.runtimeconfig.json
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/TopicPublisher.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/TopicPublisher.dll
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/TopicPublisher.pdb
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/ActiveMQ.Base.dll
+/Users/macbook/Projects/activemq1/TopicPublisher/bin/Debug/netcoreapp2.0/ActiveMQ.Base.pdb
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.dll
+/Users/macbook/Projects/activemq1/TopicPublisher/obj/Debug/netcoreapp2.0/TopicPublisher.pdb

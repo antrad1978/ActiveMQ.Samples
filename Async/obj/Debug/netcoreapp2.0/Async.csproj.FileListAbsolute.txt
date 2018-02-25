@@ -1,0 +1,10 @@
+/Users/macbook/Projects/activemq1/Async/bin/Debug/netcoreapp2.0/Async.deps.json
+/Users/macbook/Projects/activemq1/Async/bin/Debug/netcoreapp2.0/Async.runtimeconfig.json
+/Users/macbook/Projects/activemq1/Async/bin/Debug/netcoreapp2.0/Async.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/Async/bin/Debug/netcoreapp2.0/Async.dll
+/Users/macbook/Projects/activemq1/Async/bin/Debug/netcoreapp2.0/Async.pdb
+/Users/macbook/Projects/activemq1/Async/obj/Debug/netcoreapp2.0/Async.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/Async/obj/Debug/netcoreapp2.0/Async.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/Async/obj/Debug/netcoreapp2.0/Async.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/Async/obj/Debug/netcoreapp2.0/Async.dll
+/Users/macbook/Projects/activemq1/Async/obj/Debug/netcoreapp2.0/Async.pdb

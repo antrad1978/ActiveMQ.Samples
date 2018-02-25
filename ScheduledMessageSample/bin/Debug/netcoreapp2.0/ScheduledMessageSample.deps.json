@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "3c2479e9aa5cd6bd37fb8647d649597bd08cba8d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ScheduledMessageSample/1.0.0": {
+        "dependencies": {
+          "ActiveMQ.Base": "1.0.0",
+          "Apache.NMS.ActiveMQ.Core": "1.7.2.1"
+        },
+        "runtime": {
+          "ScheduledMessageSample.dll": {}
+        }
+      },
+      "Apache.NMS/1.7.1": {
+        "runtime": {
+          "lib/net40/Apache.NMS.dll": {}
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "dependencies": {
+          "Apache.NMS": "1.7.1"
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {}
+        }
+      },
+      "Apache.NMS.ActiveMQ.Core/1.7.2.1": {
+        "dependencies": {
+          "Apache.NMS.Core": "1.7.1",
+          "Ionic.Zlib.Core": "1.0.0"
+        }
+      },
+      "Apache.NMS.Core/1.7.1": {},
+      "Ionic.Zlib.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Ionic.Zlib.Core.dll": {}
+        }
+      },
+      "Polly/5.6.1": {
+        "runtime": {
+          "lib/netstandard1.1/Polly.dll": {}
+        }
+      },
+      "ActiveMQ.Base/1.0.0": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ": "1.7.2",
+          "Polly": "5.6.1"
+        },
+        "runtime": {
+          "ActiveMQ.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScheduledMessageSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sQA+1dl1hBB0AkhBys7oJ6y9lBJnjH5xVc2aQ5bbEv/pbyMhlN8Yuo/NceYVGNdSK89ANp9XyQsaVUI975QLjg==",
+      "path": "apache.nms/1.7.1",
+      "hashPath": "apache.nms.1.7.1.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "path": "apache.nms.activemq/1.7.2",
+      "hashPath": "apache.nms.activemq.1.7.2.nupkg.sha512"
+    },
+    "Apache.NMS.ActiveMQ.Core/1.7.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NeiZyc/K8v4NJ2BkB6kAt/VYpYRLf8Hw1C0Ykiwl34nBTQjczwEbTWI8ayukwbM+iorJJlU8HRIAKtqrlp6e5A==",
+      "path": "apache.nms.activemq.core/1.7.2.1",
+      "hashPath": "apache.nms.activemq.core.1.7.2.1.nupkg.sha512"
+    },
+    "Apache.NMS.Core/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3kXdmVOw6p0AZDVE0FW0eaVlmTBrHEGr2s4ieiGjnPHDOtRyctuPirh5f2y4Zc88wJGEQdIa4x6XWPouUTgEA==",
+      "path": "apache.nms.core/1.7.1",
+      "hashPath": "apache.nms.core.1.7.1.nupkg.sha512"
+    },
+    "Ionic.Zlib.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3GBgjMQA/uPTiqv+wMCpLsyK5dcHCF6EV8+pg4IMKLbgbMGEtIkvErEO4ql5Cv18n94Smf3NAhY/sCed2Tb+Tw==",
+      "path": "ionic.zlib.core/1.0.0",
+      "hashPath": "ionic.zlib.core.1.0.0.nupkg.sha512"
+    },
+    "Polly/5.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zm6mTvN9qk1wJ5hIqQ6ogJvYFRFyzyprRLTR6cNvvGn+jKwSM0wu0pZpZU/kNubYdiXtMNju6DL+/ILS7UaYlg==",
+      "path": "polly/5.6.1",
+      "hashPath": "polly.5.6.1.nupkg.sha512"
+    },
+    "ActiveMQ.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

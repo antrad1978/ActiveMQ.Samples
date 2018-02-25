@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/macbook/Projects/mqtt/mqtt/Subscriber.csproj",
+    "projectName": "Subscriber",
+    "projectPath": "/Users/macbook/Projects/mqtt/mqtt/Subscriber.csproj",
+    "outputPath": "/Users/macbook/Projects/mqtt/mqtt/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "M2MqttClientDotnetCore": {
+          "target": "Package",
+          "version": "[1.0.1, )"
+        },
+        "M2MqttDotnetCore": {
+          "target": "Package",
+          "version": "[1.0.7, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

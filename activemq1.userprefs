@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{82428E5F-9435-42AE-82A8-919A07A9FA2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MQTTConsumer/Program.cs">
+    <Files>
+      <File FileName="activemq1/Publisher.cs" Line="36" Column="23" />
+      <File FileName="activemq1/Program.cs" Line="10" Column="51" />
+      <File FileName="MQTTPublisher/Program.cs" Line="1" Column="1" />
+      <File FileName="MQTTConsumer/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbook/Projects/activemq1/activemq1/Consumer.cs" relfile="activemq1/Consumer.cs" line="35" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/Consumer/Consumer.cs" relfile="Consumer/Consumer.cs" line="41" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/Consumer/Consumer.cs" relfile="Consumer/Consumer.cs" line="38" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPConsumer1/Program.cs" relfile="AMQPConsumer1/Program.cs" line="17" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPConsumer1/Program.cs" relfile="AMQPConsumer1/Program.cs" line="15" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPConsumer1/Program.cs" relfile="AMQPConsumer1/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/Sync/Program.cs" relfile="Sync/Program.cs" line="55" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="37" column="30" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="29" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="33" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="15" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/AMQPPublisher1/Program.cs" relfile="AMQPPublisher1/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/ScheduledMessageSample/Publisher.cs" relfile="ScheduledMessageSample/Publisher.cs" line="22" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/CronMessageSample/Publisher.cs" relfile="CronMessageSample/Publisher.cs" line="41" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/TopicPublisher/Publisher.cs" relfile="TopicPublisher/Publisher.cs" line="19" column="23" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/TopicConsumer/Consumer.cs" relfile="TopicConsumer/Consumer.cs" line="47" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/activemq1/Publisher.cs" relfile="activemq1/Publisher.cs" line="20" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/activemq1/Consumer/Consumer.cs" relfile="Consumer/Consumer.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Publisher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AMQPConsumer1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>RpcClient/RpcClient.csproj</String>
+    <String>RpcServer/RpcServer.csproj</String>
+    <String>ServerReply/ServerReply.csproj</String>
+  </DisabledProjects>
+</Properties>

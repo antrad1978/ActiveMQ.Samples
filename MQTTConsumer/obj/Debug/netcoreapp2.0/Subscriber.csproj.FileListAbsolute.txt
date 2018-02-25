@@ -1,0 +1,11 @@
+/Users/macbook/Projects/mqtt/mqtt/bin/Debug/netcoreapp2.0/Subscriber.deps.json
+/Users/macbook/Projects/mqtt/mqtt/bin/Debug/netcoreapp2.0/Subscriber.runtimeconfig.json
+/Users/macbook/Projects/mqtt/mqtt/bin/Debug/netcoreapp2.0/Subscriber.runtimeconfig.dev.json
+/Users/macbook/Projects/mqtt/mqtt/bin/Debug/netcoreapp2.0/Subscriber.dll
+/Users/macbook/Projects/mqtt/mqtt/bin/Debug/netcoreapp2.0/Subscriber.pdb
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.AssemblyInfoInputs.cache
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.AssemblyInfo.cs
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.dll
+/Users/macbook/Projects/mqtt/mqtt/obj/Debug/netcoreapp2.0/Subscriber.pdb

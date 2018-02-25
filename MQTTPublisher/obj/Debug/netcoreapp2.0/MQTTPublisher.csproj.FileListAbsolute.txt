@@ -1,0 +1,11 @@
+/Users/macbook/Projects/activemq1/MQTTPublisher/bin/Debug/netcoreapp2.0/MQTTPublisher.deps.json
+/Users/macbook/Projects/activemq1/MQTTPublisher/bin/Debug/netcoreapp2.0/MQTTPublisher.runtimeconfig.json
+/Users/macbook/Projects/activemq1/MQTTPublisher/bin/Debug/netcoreapp2.0/MQTTPublisher.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/MQTTPublisher/bin/Debug/netcoreapp2.0/MQTTPublisher.dll
+/Users/macbook/Projects/activemq1/MQTTPublisher/bin/Debug/netcoreapp2.0/MQTTPublisher.pdb
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.dll
+/Users/macbook/Projects/activemq1/MQTTPublisher/obj/Debug/netcoreapp2.0/MQTTPublisher.pdb

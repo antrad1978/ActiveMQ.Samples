@@ -1,0 +1,11 @@
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.AssemblyInfoInputs.cache
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.AssemblyInfo.cs
+/Users/macbook/Projects/mqtt/Publisher/bin/Debug/netcoreapp2.0/Publisher.deps.json
+/Users/macbook/Projects/mqtt/Publisher/bin/Debug/netcoreapp2.0/Publisher.runtimeconfig.json
+/Users/macbook/Projects/mqtt/Publisher/bin/Debug/netcoreapp2.0/Publisher.runtimeconfig.dev.json
+/Users/macbook/Projects/mqtt/Publisher/bin/Debug/netcoreapp2.0/Publisher.dll
+/Users/macbook/Projects/mqtt/Publisher/bin/Debug/netcoreapp2.0/Publisher.pdb
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.dll
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.pdb
+/Users/macbook/Projects/mqtt/Publisher/obj/Debug/netcoreapp2.0/Publisher.csprojResolveAssemblyReference.cache

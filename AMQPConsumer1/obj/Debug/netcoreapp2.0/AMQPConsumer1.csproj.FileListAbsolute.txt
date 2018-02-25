@@ -1,0 +1,11 @@
+/Users/macbook/Projects/activemq1/AMQPConsumer1/bin/Debug/netcoreapp2.0/AMQPConsumer1.deps.json
+/Users/macbook/Projects/activemq1/AMQPConsumer1/bin/Debug/netcoreapp2.0/AMQPConsumer1.runtimeconfig.json
+/Users/macbook/Projects/activemq1/AMQPConsumer1/bin/Debug/netcoreapp2.0/AMQPConsumer1.runtimeconfig.dev.json
+/Users/macbook/Projects/activemq1/AMQPConsumer1/bin/Debug/netcoreapp2.0/AMQPConsumer1.dll
+/Users/macbook/Projects/activemq1/AMQPConsumer1/bin/Debug/netcoreapp2.0/AMQPConsumer1.pdb
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.AssemblyInfo.cs
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.dll
+/Users/macbook/Projects/activemq1/AMQPConsumer1/obj/Debug/netcoreapp2.0/AMQPConsumer1.pdb
